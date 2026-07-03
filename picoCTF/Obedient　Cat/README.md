@@ -1,11 +1,11 @@
-#Obedient
-##category
+# Obedient
+## category
 General skills
-##probrem
+## probrem
 This file has a flag in plain sight (aka "in-the-clear").
-##難しさ
+## 難しさ
 簡単
-##解法
+## 解法
 まずはターミナルでｗｓｌと打ち、ubuntuを立ち上げる。
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 ｗｓｌ
@@ -17,8 +17,8 @@ This file has a flag in plain sight (aka "in-the-clear").
 strings ファイル名
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 するとフラグが出現。
-##答え
+## 答え
 
-##ここから分かること
+## ここから分かること
 まずはファイルの種類を調べることが大切。むやみに開かない。
-##つぎに考えること
+## つぎに考えること
