@@ -1,5 +1,3 @@
-# Super SShのWriteUp
-
 ## category
 General skills
 ## probrem
@@ -19,7 +17,7 @@ Instance
 すると接続をするか聞かれるのでyesと入力してパスワードを入れる。<br>
 するとフラグが出現。
 ## 使用コマンド
-### sshを起動してポート番号とユーザー名を指定するコマンド
+**sshを起動してポート番号とユーザー名を指定するコマンド**
 ```ssh -p ポート番号 ユーザー名@接続先URL```
 ## 答え
 picoCTF{s3cur3_c0nn3ct10n_3e293eea}
