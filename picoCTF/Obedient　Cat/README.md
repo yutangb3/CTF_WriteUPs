@@ -1,5 +1,3 @@
-# obedient CatのWriteUp
-
 ## category
 General skills
 ## probrem
@@ -16,10 +14,10 @@ This file has a flag in plain sight (aka "in-the-clear").
 ```strings flag```<br>
 するとフラグが出現。
 ## 使用コマンド
-### linux立ち上げ
-wsl
-### ファイルの種類検索
-strings ファイル名
+**linux立ち上げ**<br>
+```wsl```<br>
+**ファイルの種類検索**<br>
+```strings ファイル名```
 ## 答え
 picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}
 ## ここから学んだこと
