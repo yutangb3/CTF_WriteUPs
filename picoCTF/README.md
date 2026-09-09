@@ -1,3 +1,0 @@
-# picoCTF Writeups
-
-このフォルダにはpicoCTFのWriteupをまとめています。
