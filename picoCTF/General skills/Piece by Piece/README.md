@@ -56,7 +56,7 @@ ssh user名@IPアドレス　-p ポート番号
 unzip ファイル名
 ```
 ## 答え
-```picoCTF{nEtCat_Mast3ry_0d33dA2C}```
+```picoCTF{z1p_and_spl1t_f1l3s_4r3_fun_da494d2e}```
 ## ここから学んだこと
 ファイルの解凍方法
 catコマンドの本当の理解
