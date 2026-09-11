@@ -62,7 +62,7 @@ sudo -l
 emacs -nw
 ```
 ## 答え
-```picoCTF{nEtCat_Mast3ry_0d33dA2C}```
+```picoCTF{ju57_5ud0_17_f8185e1e}```
 ## ここから学んだこと
 linuxの権限の確認方法
 sudoコマンドの意味や使い方
