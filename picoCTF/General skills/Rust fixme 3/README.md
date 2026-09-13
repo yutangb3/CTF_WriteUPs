@@ -60,6 +60,8 @@ fn main() {
     decrypt(encrypted_buffer, &mut party_foul);
 }
 ```
+as_ptr()は戻り値で生のポインターを示す。
+なのでunsafeで処理しないといけない。
 unsafeは｛｝でくくればよいのでコメント通りに書く。
 そしてcargo runでflagをゲット。
 ## 使用コマンド
