@@ -34,7 +34,7 @@ echo -n '文字列'
 hexdump
 ```
 ## 答え
-```picoCTF{nEtCat_Mast3ry_0d33dA2C}```
+```picoCTF{3ndi4n_sw4p_su33ess_d58517b6}```
 ## ここから学んだこと
 リトルエンディアンはバイト列を逆順で表したもの
 ビッグエンディアンはバイト列をそのまま先頭から表したもの。
